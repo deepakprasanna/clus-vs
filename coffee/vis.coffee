@@ -410,6 +410,7 @@ texts = [
   {key:"alice",file:"alice.csv",name:"Alice's Adventures in Wonderland"}
   {key:"gulliver",file:"top_gulliver.csv",name:"Gulliver's Travels"}
   {key:"warriors",file:"warriors.csv",name:"Warriors"}
+  {key:"clus",file:"clus.csv",name:"CLUS"}
 ]
 
 # ---
